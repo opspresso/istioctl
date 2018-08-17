@@ -4,7 +4,7 @@ FROM alpine
 
 RUN apk add --no-cache bash curl
 
-ENV VERSION 1
+ENV VERSION v0.15.0
 RUN curl -sL https://github.com/istio/istio/releases/download/${VERSION}/istio-${VERSION}-linux.tar.gz | tar xz && \
     mv istio-${VERSION}/bin/istioctl /usr/local/bin/istioctl
 
