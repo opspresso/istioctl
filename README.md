@@ -1,5 +1,5 @@
 # istioctl
 
 ```bash
-docker pull opspresso/istioctl
+docker pull quay.io/opspresso/istioctl
 ```
