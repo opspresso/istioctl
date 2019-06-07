@@ -12,5 +12,5 @@ docker pull opspresso/istioctl
 ## version
 
 ```
-ENV VERSION 1.1.7
+ENV VERSION 1.0.8
 ```
