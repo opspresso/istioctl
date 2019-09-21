@@ -1,7 +1,7 @@
 # istioctl
 
-[![GitHub release](https://img.shields.io/github/release/opspresso/istioctl.svg)](https://github.com/opspresso/istioctl/releases)
-[![CircleCI](https://circleci.com/gh/opspresso/istioctl.svg?style=svg)](https://circleci.com/gh/opspresso/istioctl)
+[![GitHub Actions status](https://github.com/opspresso/istioctl/workflows/Build-Push/badge.svg)](https://github.com/opspresso/istioctl/actions)
+[![GitHub Releases](https://img.shields.io/github/release/opspresso/istioctl.svg)](https://github.com/opspresso/istioctl/releases)
 
 [![DockerHub Badge](http://dockeri.co/image/opspresso/istioctl)](https://hub.docker.com/r/opspresso/istioctl/)
 
