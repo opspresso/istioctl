@@ -12,7 +12,7 @@ docker pull opspresso/istioctl
 ## version
 
 ```
-ENV VERSION 1.2.10
+ENV VERSION 1.5.0-alpha.0
 ```
 
 ## latest
